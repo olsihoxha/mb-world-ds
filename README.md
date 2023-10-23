@@ -9,3 +9,25 @@ This Python script is designed to scrape questions and answers from the "MB-Worl
 - Stores scraped data in a user-defined output format (e.g., CSV, JSON).
 
   
+## Getting Started
+
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+
+### Prerequisites
+
+- Python 3.x
+- beautifulsoup4==4.x
+- pip
+
+### Installing
+
+1. Clone the repository
+> git clone https://github.com/olsihoxha/mb-world-ds.git
+
+
+2. Change into the project directory
+> cd mb-world-ds
+
+
+3. Install the required packages
+> pip install -r requirements.txt
